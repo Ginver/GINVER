@@ -1,6 +1,6 @@
 ##### Where I come from: After working for several years in the fashion industry as a product developer & coordinator I've become more and more interested in the tech industry. After some time I decided to feed my curiosity and gave it a chance. I've been learning modern front-end development - Single Page Apps with React & APIs, building and understanding apps from scratch and experiencing the entire design process through a final assignment. 
 
-##### At the moment: I continue my journey and my development gaining more and more experience by practicing to make “pixel perfect” CSS designs based on professional Figma designs and complete frontend challenges. 
+##### At the moment: I continue my journey and my development gaining more experience by practicing to make “pixel perfect” CSS designs based on professional Figma designs and complete frontend challenges. 
 
 ##### On my to-do list: Server Side Rendering with Next.js & Connecting CMS systems to my apps.
 
